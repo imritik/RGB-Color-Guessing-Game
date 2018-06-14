@@ -1,1 +1,1 @@
-# RGB-Color-Guessing-Game
+# RGB color game
